@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(87, 16, 119);
+}
+a {
+    color: aqua;
+    font-size: 20px;
+}
+p {
+    color: blueviolet;
+    font-size: 20px;
+}
+div {
+    border: solid;
+    color: silver;
+    width: 800px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#main {
+    height: 1000px;
+    padding-top: 10px;
+    background-color: black;
+}
+#header {
+    height: 390px;
+}

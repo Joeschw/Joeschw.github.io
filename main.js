@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 })
 $( document ).ready(function() {
-  $( "#mainHeader" ).click(function() {
-    $( "#mainHeader" ).fadeOut( "slow", function() {
+  $( "#Demolish" ).click(function() {
+    $( "Div" ).fadeOut( "slow", function() {
     });
   });
 });

@@ -3,3 +3,9 @@ document.addEventListener("DOMContentLoaded", function() {
     this.style.color = 'orange'
   }
 })
+$( document ).ready(function() {
+  $( "#mainHeader" ).click(function() {
+    $( "#mainHeader" ).fadeOut( "slow", function() {
+    });
+  });
+});

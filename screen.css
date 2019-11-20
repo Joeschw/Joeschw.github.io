@@ -65,7 +65,7 @@ a {
   padding: 50px; }
 h1 {
   font-size: 6em;
-  color: black;
+  color: silver;
 }
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
@@ -73,4 +73,12 @@ body {
 }
 #head {
   background-image: linear-gradient(#ff6600, black);
+  }
+.btn {
+  background-color: #ff6600;
+}
+h2 {
+  font-size: 2em;
+  color: #ff6600;
+  padding-bottom: 10px;
 }
